@@ -25,7 +25,7 @@ const HomePage = () => {
     },[]);
   return (
     <Layout>
-    <div className="bg-gray-900 min-h-screen text-gray-200">
+    <div className="bg-gray-900 min-h-screen text-gray-200 m-0">
       <main className="max-w-5xl mx-auto py-8">
         <h1 className="text-3xl font-bold mb-6">My Courses</h1>
         
